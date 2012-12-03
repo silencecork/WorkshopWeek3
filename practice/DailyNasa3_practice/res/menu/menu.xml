@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/menu_wallpaper"
+        android:title="@string/set_wallpaper"
+        android:icon="@android:drawable/ic_menu_set_as"
+        android:orderInCategory="0"/>
+    
+    <item android:id="@+id/menu_refresh"
+        android:title="@string/refresh"
+        android:icon="@drawable/ic_menu_refresh"
+        android:orderInCategory="1"/>
+    
+    <item android:id="@+id/menu_nasa"
+        android:title="@string/go_nasa"
+        android:icon="@android:drawable/ic_menu_view"
+        android:orderInCategory="2"/>
+
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Intent1</string>
+    <string name="map">Map</string>
+	<string name="dial">Dail</string>
+	<string name="google">Google</string>
+	<string name="sms">SMS</string>
+	<string name="email">Email</string>
+	<string name="warning">There is no application supports this request</string>
+        
+</resources>

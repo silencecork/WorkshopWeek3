@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Open Browser directory</string>
+    <string name="browser">Open Browser</string>
+	<string name="warning">There is no application supports this request</string>
+        
+</resources>

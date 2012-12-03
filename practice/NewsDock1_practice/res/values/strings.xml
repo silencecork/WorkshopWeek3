@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">NewsDock</string>
+    <string name="menu_read">Read full article</string>
+    <string name="menu_mail">Mail to friends</string>
+    <string name="warning">There is no application supports this request</string>
+
+</resources>

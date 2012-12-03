@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Menu1</string>
+	<string name="menu_opt1">Option 1</string>
+    <string name="menu_opt2">Option 2</string>
+    <string name="menu_opt3">Option 3</string>
+    <string name="menu_opt4">Option 4</string>
+    <string name="menu_opt5">Option 5</string>
+    <string name="menu_opt6">Option 6</string>
+    <string name="menu_opt7">Option 7</string>
+    <string name="menu_opt8">Option 8</string>
+    <string name="menu_opt9">Option 9</string>
+    <string name="menu_opt10">Option 10</string>
+       
+</resources>

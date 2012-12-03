@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/opt1"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/menu_opt1"
+        android:orderInCategory="0"/>
+	<item android:id="@+id/opt2"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="@string/menu_opt2"
+        android:orderInCategory="1"/>
+	<item android:id="@+id/opt3"
+        android:icon="@android:drawable/ic_menu_always_landscape_portrait"
+        android:title="@string/menu_opt3"
+        android:orderInCategory="2"/>
+	<item android:id="@+id/opt4"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="@string/menu_opt4"
+        android:orderInCategory="3"/>
+	<item android:id="@+id/opt5"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="@string/menu_opt5"
+        android:orderInCategory="4"/>
+	<item android:id="@+id/opt6"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="@string/menu_opt6"
+        android:orderInCategory="5"/>
+	<item android:id="@+id/opt7"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="@string/menu_opt7"
+        android:orderInCategory="6"/>
+	<item android:id="@+id/opt8"
+        android:icon="@android:drawable/ic_menu_crop"
+        android:title="@string/menu_opt8"
+        android:orderInCategory="7"/>
+	<item android:id="@+id/opt9"
+        android:icon="@android:drawable/ic_menu_day"
+        android:title="@string/menu_opt9"
+        android:orderInCategory="8"/>
+	<item android:id="@+id/opt10"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/menu_opt10"
+        android:orderInCategory="9"/>
+	
+</menu>

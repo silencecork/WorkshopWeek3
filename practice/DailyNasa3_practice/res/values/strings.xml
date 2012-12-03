@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DailyNasaActivity!</string>
+    <string name="app_name">DailyNasa</string>
+    <string name="set_wallpaper">Set as Wallpaper</string>
+	<string name="refresh">Refresh</string>
+	<string name="go_nasa">Go to Nasa</string>
+	<string name="no_activity_support">There is no application supports your request</string>
+        
+</resources>

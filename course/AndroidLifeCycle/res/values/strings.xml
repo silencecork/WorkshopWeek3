@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="activity1">This is Activity1!</string>
+    <string name="activity2">This is Activity2!</string>
+    <string name="app_name">AndroidLifeCycle</string>
+	<string name="change_to_other">Change to another activity</string>
+        
+</resources>

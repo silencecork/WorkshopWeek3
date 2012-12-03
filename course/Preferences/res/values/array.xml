@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="list_pref_entries">
+        <item>This is option1</item>
+        <item>This is option2</item>
+        <item>This is option3</item>
+    </string-array>
+    
+    <string-array name="list_pref_entries_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    
+</resources>

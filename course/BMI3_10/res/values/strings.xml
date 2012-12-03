@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">BMI3</string>
+	<string name="height">Height (cm)</string>
+	<string name="weight">Weight (kg)</string>
+	<string name="calc">Calc BMI</string>
+	<string name="advice_heavy">You are too Fat</string>
+	<string name="advice_light">You are too Thin</string>
+	<string name="advice_average">You are Good</string>
+	<string name="warning">Please input something!</string>
+	<string name="btn_ok">OK</string>
+	<string name="warning_title">Warning</string>
+	
+	<string name="menu_info">Information</string>
+	<string name="menu_exit">Exit</string>
+	<string name="bmi_formula">BMI formula is weight(kg) / height(m) / height(m)</string>
+	<string name="btn_health">Go to web</string>
+	<string name="btn_back">Back to previous</string>
+	<string name="btn_cancel">Cancel</string>
+	
+	<string name="report">Report</string> 
+	
+	<string name="activity_setting_title">Setting</string>
+	<string name="menu_setting">Setting</string>
+	<string name="pref_height_key">KEY_HEIGHT</string>
+	<string name="pref_height_title">Height (cm)</string>
+	<string name="pref_height_summary">Input your height in this field</string>
+	<string name="pref_height_dlg_msg">Input your height and it will be reused in application</string>
+	    
+</resources>

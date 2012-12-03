@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Preferences</string>
+	<string name="btn_ok">OK</string>
+	<string name="btn_cancel">Cancel</string>
+	
+	<string name="pref_category">This is preference category</string>
+	
+	<string name="edittext_pref_key">EDITTEXT_KEY</string>
+    <string name="edittext_pref_title">EditText Preference</string>
+    <string name="edittext_pref_summary">EditText preference summary</string>
+    <string name="edittext_pref_dialog_title">EditText Dialog</string>
+    <string name="edittext_pref_dialog_msg">EditText Dialog message</string>
+    
+    <string name="checkbox_pref_key">CHECKBOX_KEY</string>
+    <string name="checkbox_pref_title">Checkbox Preference</string>
+    <string name="checkbox_pref_summary_on">Checkbox summary ON</string>
+    <string name="checkbox_pref_summary_off">Checkbox summary OFF</string>
+	
+    <string name="list_pref_key">LIST_KEY</string>
+    <string name="list_pref_title">List Preference</string>
+    <string name="list_pref_summary">List Preference summary</string>
+    <string name="list_pref_dialog_title">List Preference</string>
+    <string name="list_pref_dialog_msg">List Preference message</string>
+    
+    <string name="checkbox_val">CheckBox value</string>
+    <string name="edittext_val">EditText value</string>
+    <string name="list_val">List value</string>
+</resources>

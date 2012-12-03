@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference 
+         android:key="@string/pref_height_key" 
+         android:summary="@string/pref_height_summary" 
+         android:persistent="true" 
+         android:title="@string/pref_height_title" 
+         android:dialogTitle="@string/pref_height_title" 
+         android:dialogMessage="@string/pref_height_dlg_msg"/>
+</PreferenceScreen>
+
+    

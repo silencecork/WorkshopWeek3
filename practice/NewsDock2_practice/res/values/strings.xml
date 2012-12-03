@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">NewsDock</string>
+    <string name="menu_read">Read full article</string>
+    <string name="menu_mail">Mail to friends</string>
+    <string name="warning">There is no application supports this request</string>
+    
+    <string name="setting_title">NewsDock Setting</string>
+    <string name="menu_setting">Settings</string>
+    
+    <string name="pref_country_key">KEY_COUNTRY</string>
+    <string name="pref_country_title">Choose News of country</string>
+    <string name="pref_country_summary">show news of different country</string>
+    <string-array name="pref_country_entries">
+        <item>Taiwan</item>
+        <item>USA</item>
+    </string-array>
+    <string-array name="pref_country_entries_value">
+        <item>tw</item>
+        <item>us</item>
+    </string-array>
+    
+    <string name="pref_topic_key">KEY_TOPIC</string>
+    <string name="pref_topic_title">Choose News topic</string>
+    <string name="pref_topic_summary">show different kinds of news</string>
+	<string-array name="pref_topic_entries">
+	    <item>Highlight</item>
+	    <item>Nation</item>
+	    <item>Technology</item>
+	    <item>Finance</item>
+	    <item>Sport</item>
+	    <item>Entertainment</item>
+	    <item>Society</item>
+	    <item>Health</item>
+	</string-array>
+	<string-array name="pref_topic_entries_value">
+	    <item>h</item>
+	    <item>n</item>
+	    <item>t</item>
+	    <item>b</item>
+	    <item>s</item>
+	    <item>e</item>
+	    <item>y</item>
+	    <item>m</item>
+	</string-array>
+</resources>

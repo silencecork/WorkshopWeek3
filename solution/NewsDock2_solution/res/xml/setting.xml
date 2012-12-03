@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ListPreference 
+        android:key="@string/pref_country_key" 
+        android:title="@string/pref_country_title" 
+        android:summary="@string/pref_country_summary" 
+        android:persistent="true" 
+        android:dialogTitle="@string/pref_country_title" 
+        android:entryValues="@array/pref_country_entries_value" 
+        android:entries="@array/pref_country_entries" 
+        android:defaultValue="tw"/>
+    <ListPreference 
+        android:key="@string/pref_topic_key" 
+        android:title="@string/pref_topic_title" 
+        android:summary="@string/pref_topic_summary" 
+        android:persistent="true" 
+        android:defaultValue="t" 
+        android:dialogTitle="@string/pref_topic_title" 
+        android:entryValues="@array/pref_topic_entries_value" 
+        android:entries="@array/pref_topic_entries"/>
+</PreferenceScreen>

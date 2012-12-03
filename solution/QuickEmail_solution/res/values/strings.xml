@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">QuickEmail</string>
+    <string name="mail_receiver">Receiver</string>
+    <string name="mail_cc">CC</string>
+    <string name="mail_subject">Subject</string>
+    <string name="mail_content">Content</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_quit">Quit</string>
+    <string name="separate">insert ; between mail</string>
+	<string name="warning">There is no application supports this request</string>
+	
+</resources>
